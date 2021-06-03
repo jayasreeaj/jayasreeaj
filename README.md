@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Repository created for jayasree
+welcome to the first session of SD lab conducted on 03/06/2021
 <!--
 **jayasreeaj/jayasreeaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
